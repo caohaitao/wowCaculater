@@ -1,0 +1,7 @@
+/.vs
+/x64
+/ConsoleTest/x64
+/WowSimulaterCaculater/x64
+/ipch
+/*.sdf
+*.opensdf
